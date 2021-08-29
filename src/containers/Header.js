@@ -1,7 +1,7 @@
 const Header = () => {
   return (
-    <div className="ui fixed munu">
-      <div className="ui container menu">
+    <div className="ui menu">
+      <div className="ui container ">
         <h2>MyShop</h2>
       </div>
     </div>
